@@ -1,0 +1,10 @@
+title: your document title
+description: your document description
+theme: just-the-docs
+logo: "your_logo_path"
+favicon_ico: "your_icon_path"
+
+url: https://github.com/clevert2/github-handbook-poc
+
+aux_links:
+  Repository: https://github.com/clevert2/github-handbook-poc
